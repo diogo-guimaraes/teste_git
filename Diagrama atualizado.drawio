@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-19T14:16:20.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="wV1pL-W7U0L9G5SDNe9d" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-19T14:16:39.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="57JPRuMdFj94e6XBvVbA" version="12.8.8" type="github">
   <diagram id="VvqGy8qrrSqzTx67XHq5" name="Página-1">
     <mxGraphModel dx="2913" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -366,14 +366,11 @@
         <mxCell id="uRaay0qYqFroeMQSRzV6-5" value="1&lt;br&gt;www.radiofm.com.br&lt;br&gt;Rádio FM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-805" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRaay0qYqFroeMQSRzV6-8" value="1&lt;br&gt;Rádio FM&lt;br&gt;radiofm@hotmail.com&lt;br&gt;02.345.543/0001-90&lt;br&gt;Rua 4&lt;br&gt;2354&lt;br&gt;FlodoaldoP. P&lt;br&gt;768.20-608&lt;br&gt;Porto Velho&lt;br&gt;Vilhena&lt;br&gt;Jamari&lt;br&gt;Rondônia" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="uRaay0qYqFroeMQSRzV6-8" value="1&lt;br&gt;Rádio FM&lt;br&gt;radiofm@hotmail.com&lt;br&gt;02.345.543/0001-90&lt;br&gt;Rua 4&lt;br&gt;2354&lt;br&gt;FlodoaldoP. P&lt;br&gt;768.20-608&lt;br&gt;Porto Velho&lt;br&gt;Rondônia" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-957" y="355" width="130" height="170" as="geometry" />
         </mxCell>
         <mxCell id="uRaay0qYqFroeMQSRzV6-12" value="Rádio&lt;br&gt;Tv&lt;br&gt;Cinema&lt;br&gt;Site&lt;br&gt;Jornal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-760" y="50" width="130" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="uRaay0qYqFroeMQSRzV6-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-209" y="653" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
