@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-20T16:39:11.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="mEroem9E9VsH0_Dj_2py" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-20T17:25:39.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="zHvh4tz-U5SkSJabCKMy" version="12.8.8" type="github">
   <diagram id="VvqGy8qrrSqzTx67XHq5" name="Página-1">
     <mxGraphModel dx="2913" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,8 +51,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-320" y="-30" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-283" y="30" />
-              <mxPoint x="-283" y="30" />
+              <mxPoint x="-276" y="30" />
+              <mxPoint x="-276" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -205,7 +205,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IHVAyDiuJe2hWlR-bfKC-44" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;tempo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;dia_inicial&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;dia_final&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;hora_inicial&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;hora_final&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;material_duracao&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;idTempo_exibicao(FK)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
+        <mxCell id="IHVAyDiuJe2hWlR-bfKC-44" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Tempo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;dia_inicial&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;dia_final&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;hora_inicial&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;hora_final&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;material_duracao&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;tempo_exibicao_id (Fk)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="150" y="130" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Db5_0AzRxlFm09WnYyrj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.794;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.336;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IHVAyDiuJe2hWlR-bfKC-46" target="Db5_0AzRxlFm09WnYyrj-10" edge="1">
