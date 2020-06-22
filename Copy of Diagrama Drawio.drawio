@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-22T20:11:38.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="PTAC4iM06jmgUi71Bp1l" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-22T20:13:16.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="q-r7PzMPCP1ElNuYTUDH" version="13.3.0" type="github">
   <diagram id="VvqGy8qrrSqzTx67XHq5" name="Página-1">
     <mxGraphModel dx="4518" dy="1776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,14 +53,8 @@
         <mxCell id="IHVAyDiuJe2hWlR-bfKC-32" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;telefones&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;contato&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;numero&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;tipo_telefone_id (FK)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;empresa_id (Fk)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;shadow=1;fillColor=#E6FFCC;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="-2100" y="50.680000000000064" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AZ0rUFqmRIcLRPPF50My-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="IHVAyDiuJe2hWlR-bfKC-44" target="hEuoSCw_zH2l6TdKry4A-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IHVAyDiuJe2hWlR-bfKC-44" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;tempos&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;data_inicial&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;data_final&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;quantidade_dia (cinema)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;quantidade_break (TV)&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;tempo_break_segundo (TV)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;tempo_semana_inicial_id (Fk)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;tempo_semana_final_id (Fk)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;hora_inicial&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;hora_final&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;tempo_segundo_id (Fk)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#666666;shadow=1;fillColor=#E6FFCC;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-390" y="744" width="183.75" height="199.16" as="geometry" />
-        </mxCell>
-        <mxCell id="zgCgvO0OePyMyhIOJtNH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IHVAyDiuJe2hWlR-bfKC-73" target="IHVAyDiuJe2hWlR-bfKC-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-1120" y="-128.81" width="200" height="199.16" as="geometry" />
         </mxCell>
         <mxCell id="IHVAyDiuJe2hWlR-bfKC-73" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;tempo_segundos&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;id&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;nome&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#666666;shadow=1;fillColor=#E6FFCC;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-480" y="982.34" width="178.13" height="71.66" as="geometry" />
@@ -153,14 +147,6 @@
             <mxPoint x="190" y="1559.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZ0rUFqmRIcLRPPF50My-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hEuoSCw_zH2l6TdKry4A-5" target="hEuoSCw_zH2l6TdKry4A-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-210" y="441" />
-              <mxPoint x="-210" y="441" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hEuoSCw_zH2l6TdKry4A-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;valores&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;valor_categoria_id&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;valor&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;shadow=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="-140" y="432.61" width="200" height="121.39" as="geometry" />
         </mxCell>
@@ -174,10 +160,7 @@
           <mxGeometry x="-453.75" y="446.5" width="183.75" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="PH6_v-OUn3k5hnI-Xyd2-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;cor_formatos&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Id&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;nome&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#d79b00;shadow=1;fillColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="700" width="100" height="84.83" as="geometry" />
-        </mxCell>
-        <mxCell id="zgCgvO0OePyMyhIOJtNH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdpKdHK92KjOXgSutlwl-6" target="IHVAyDiuJe2hWlR-bfKC-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-453.75" y="340" width="183.75" height="84.83" as="geometry" />
         </mxCell>
         <mxCell id="mdpKdHK92KjOXgSutlwl-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;tempo_semanas&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;nome&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#666666;shadow=1;fillColor=#E6FFCC;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-290" y="984" width="180" height="70" as="geometry" />
